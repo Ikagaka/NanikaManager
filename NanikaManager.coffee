@@ -291,3 +291,5 @@ class NanikaManager extends EventEmitter
 				other_name: nanika_descript.ghost.name
 				other_shell_name: nanika_descript.shell.name
 			, @_request_callback(resolve), @_request_ssp_callbacks(resolve)
+
+@NanikaManager = NanikaManager

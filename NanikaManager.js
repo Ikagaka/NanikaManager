@@ -563,4 +563,6 @@
 
   })(EventEmitter);
 
+  this.NanikaManager = NanikaManager;
+
 }).call(this);
