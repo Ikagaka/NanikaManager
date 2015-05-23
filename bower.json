@@ -1,0 +1,16 @@
+{
+	"name": "NanikaManager",
+	"description": "NanikaManager - Nanika Manager",
+	"main": "NanikaManager.js",
+	"ignore": [
+		"**/.*",
+		"bower_components",
+		"node_modules",
+		"npm-debug.log",
+		"coverage"
+	],
+	"dependencies": {
+		"eventemitter2": ">= 0.4.14",
+		"cuttlebone": ""
+	}
+}
